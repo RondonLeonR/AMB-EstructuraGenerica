@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1525358468 source:d:\rondon\primerparcial\estrucparcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstrucParcial.h"
+
+1525358142 d:\rondon\primerparcial\estrucparcial.h
+
+1525352005 source:d:\rondon\primerparcial\estrucproduc.c
+
+1525357229 source:d:\rondon\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstrucParcial.h"
+
+1525445707 source:c:\users\alumno\desktop\rondon\amb-estructuragenerica\primerparcial\estrucparcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstrucParcial.h"
+
+1525446143 c:\users\alumno\desktop\rondon\amb-estructuragenerica\primerparcial\estrucparcial.h
+
+1525442800 source:c:\users\alumno\desktop\rondon\amb-estructuragenerica\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstrucParcial.h"
+
+1525445764 source:c:\users\alumno\desktop\rondon\amb-estructuragenerica\primerparcial\estrucproduc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstrucProduc.h"
+
+1525444696 c:\users\alumno\desktop\rondon\amb-estructuragenerica\primerparcial\estrucproduc.h
+
